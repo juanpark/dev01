@@ -1,0 +1,8 @@
+# Ignore Jenkins persistent data
+jenkins_data/
+
+# Ignore shared HTML files for Apache
+webshare/
+
+# Docker noise (optional)
+*.log
